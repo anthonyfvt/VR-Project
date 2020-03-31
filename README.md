@@ -24,6 +24,8 @@ Dans cette partie nous faisons une présentation brève de l'application.
   * Grâce à cette fonction et les cartes à jouer, l’application détecte et reconnait le symbole de la carte (carreau, coeur, pic, ou trèfle).
 
   * Une fois le symbole détecté le même symbole apparait en réalité augmenté au dessus de la carte.
+  
+  * Une fois le symbole, apparu il est possible de cliquer dessus afin d'émettre un son.
 
 ### Installing
 
