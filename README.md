@@ -23,12 +23,7 @@ Dans cette partie nous faisons une présentation brève de l'application.
 
   * Grâce à cette fonction et les cartes à jouer, l’application détecte et reconnait le symbole de la carte (carreau, coeur, pic, ou trèfle).
 
-  * Une fois le symbole détecté le même symbole apparait en réalité augmenté au dessus de la carte et effectue les actions dictées par la commande vocale au dessus de la carte en question.
-
-* Reconnaissance vocale : grâce à cette fonction nous pouvons décider du comportement de l’objet 3D au dessus de la carte.
-
-  * Exemple : si vous dites « tourne » le symbole va tourner au dessus de la carte.
-    * Liste des actions possibles : « tourne », 
+  * Une fois le symbole détecté le même symbole apparait en réalité augmenté au dessus de la carte.
 
 ### Installing
 
@@ -36,7 +31,7 @@ Pour installer cette application il suffit juste d'importer l'APK situé dans le
 
 ## Deployment
 
-Cette application peut être exécuter sous Android 7.0 (APK 24-25)
+Cette application peut être exécuter sous Android 7.0 (API 24-25)
 
 ## Built With
 
