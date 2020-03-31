@@ -36,7 +36,7 @@ Pour installer cette application il suffit juste d'importer l'APK situé dans le
 
 ## Deployment
 
-Cette application peut être exécuter sous Android (Version 21 - KitKat)
+Cette application peut être exécuter sous Android 7.0 (APK 24-25)
 
 ## Built With
 
