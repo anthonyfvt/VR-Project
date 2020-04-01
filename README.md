@@ -1,4 +1,4 @@
-# Turning Spades & CO
+# Virtual Bulk
 # VR-Project
 Projet de Réalité Virtuelle dans le cadre du module "FA-IMA4134 - Réalité virtuelle" ESIEA 4A CFA.
 
@@ -10,22 +10,22 @@ Dans ce répertoire de projet VR project vous trouverez 2 sous-répertoirs.
 
 `2. Projet Unity 3D`
 
-Dans le répertoir `1. APK` vous trouverez l'APK nécessaire pour lancer l'application sur un appareil android.
+Dans le répertoir `1. APK` vous trouverez l'APK nécessaire pour lancer l'application sur un appareil android. Ainsi que la photo nécessaire au bon fonctionnement de l'application.
 
-Dans le répertoir `2. Projet Unity 3D` vous trouverez les fichiers et dossiers du projet unity nécessaires pour lancer le projet avec Unity 3D.
+Dans le répertoir `2. Projet Unity 3D` vous trouverez les fichiers et dossiers zippés du projet unity nécessaires pour lancer le projet avec Unity 3D.
 Il s'agit du dossier du projet nettoyé, il y a juste besoin de le lancer sous unity.
 
 ### Presentation
 
 Dans cette partie nous faisons une présentation brève de l'application.
 
-* Utilisation de l’appareil photo du téléphone afin de détecter des cartes à jouer
+* Utilisation de l’appareil photo du téléphone afin de détecter la photo de publicité d'une salle de sport
 
-  * Grâce à cette fonction et les cartes à jouer, l’application détecte et reconnait le symbole de la carte (carreau, coeur, pic, ou trèfle).
+  * Grâce à cette fonction et la photo de la pub de la salle de sport, l’application détecte la photo et affiche une salle de sport virtuelle au dessus de la photo.
 
-  * Une fois le symbole détecté le même symbole apparait en réalité augmenté au dessus de la carte.
+  * Une fois la salle de sport apparue, la musique (bien connue) des films "Rocky" se met en marche.
   
-  * Une fois le symbole, apparu il est possible de cliquer dessus afin d'émettre un son.
+  * Il est possible ensuite de passer sa main au dessus de la salle de sport, quand la main passe et est détectée, le site de la salle de sport se lance.
 
 ### Installing
 
