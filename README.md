@@ -25,7 +25,7 @@ Dans cette partie nous faisons une présentation brève de l'application.
 
   * Une fois la salle de sport apparue, la musique (bien connue) des films "Rocky" se met en marche.
   
-  * Il est possible ensuite de passer sa main au dessus de la salle de sport, quand la main passe et est détectée, le site de la salle de sport se lance.
+  * Il est possible ensuite de passer sa main au dessus de la salle de sport et placer votre doigt à peu près au milieu de la salle de sport, quand le doigt et est détecté, le site de la salle de sport se lance.
 
 ### Installing
 
